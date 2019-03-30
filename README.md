@@ -1,0 +1,2 @@
+# make_multilanguage_application_with_qt
+「はじめてのQt カンタン！多言語対応のアプリをつくろう」のサンプルコード
