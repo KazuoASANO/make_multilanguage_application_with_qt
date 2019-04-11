@@ -1,4 +1,4 @@
-# make_gui_in_python_with_qt
+# make_multilanguage_application_with_qt
 ![Qt 5.12](https://img.shields.io/badge/Qt-5.12-brightgreen.svg)
 
 [はじめてのQt 簡単！ 多言語対応のアプリをつくろう](https://emblog.booth.pm/items/1311049)のサンプルコードリポジトリです。
