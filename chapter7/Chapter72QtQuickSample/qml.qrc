@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/HomeForm.ui.qml</file>
+        <file>ui/Home.qml</file>
+        <file>qtquickcontrols2.conf</file>
+    </qresource>
+</RCC>

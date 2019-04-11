@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/i18n">
+        <file alias="Chapter4QtQuickSample_de.qm">i18n/Chapter4QtQuickSample_de.qm</file>
+        <file alias="Chapter4QtQuickSample_en.qm">i18n/Chapter4QtQuickSample_en.qm</file>
+        <file alias="Chapter4QtQuickSample_ja.qm">i18n/Chapter4QtQuickSample_ja.qm</file>
+        <file alias="Chapter4QtQuickSample_zh.qm">i18n/Chapter4QtQuickSample_zh.qm</file>
+    </qresource>
+</RCC>

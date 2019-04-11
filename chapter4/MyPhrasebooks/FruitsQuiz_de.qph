@@ -1,0 +1,39 @@
+<!DOCTYPE QPH>
+<QPH language="de">
+<phrase>
+    <source>Fruits Quiz</source>
+    <target>Früchte Quiz</target>
+</phrase>
+<phrase>
+    <source>What&apos;s is this?</source>
+    <target>Was ist das?</target>
+</phrase>
+<phrase>
+    <source>Melon</source>
+    <target>Melone</target>
+</phrase>
+<phrase>
+    <source>Apple</source>
+    <target>Apfel</target>
+</phrase>
+<phrase>
+    <source>Strawberry</source>
+    <target>Erdbeere</target>
+</phrase>
+<phrase>
+    <source>&amp;File</source>
+    <target>Datei(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>E&amp;xit</source>
+    <target>Beenden(&amp;x)</target>
+</phrase>
+<phrase>
+    <source>Right</source>
+    <target>Korrekt</target>
+</phrase>
+<phrase>
+    <source>Wrong</source>
+    <target>Falsch</target>
+</phrase>
+</QPH>

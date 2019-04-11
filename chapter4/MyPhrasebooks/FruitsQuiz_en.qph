@@ -1,0 +1,39 @@
+<!DOCTYPE QPH>
+<QPH language="en">
+<phrase>
+    <source>Fruits Quiz</source>
+    <target>Fruits Quiz</target>
+</phrase>
+<phrase>
+    <source>What&apos;s is this?</source>
+    <target>What&apos;s is this?</target>
+</phrase>
+<phrase>
+    <source>Melon</source>
+    <target>Melon</target>
+</phrase>
+<phrase>
+    <source>Apple</source>
+    <target>Apple</target>
+</phrase>
+<phrase>
+    <source>Strawberry</source>
+    <target>Strawberry</target>
+</phrase>
+<phrase>
+    <source>&amp;File</source>
+    <target>&amp;File</target>
+</phrase>
+<phrase>
+    <source>E&amp;xit</source>
+    <target>E&amp;xit</target>
+</phrase>
+<phrase>
+    <source>Right</source>
+    <target>Right</target>
+</phrase>
+<phrase>
+    <source>Wrong</source>
+    <target>Wrong</target>
+</phrase>
+</QPH>

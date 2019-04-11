@@ -1,0 +1,39 @@
+<!DOCTYPE QPH>
+<QPH language="ja">
+<phrase>
+    <source>Fruits Quiz</source>
+    <target>水果测验</target>
+</phrase>
+<phrase>
+    <source>What&apos;s is this?</source>
+    <target>这是什么？</target>
+</phrase>
+<phrase>
+    <source>Melon</source>
+    <target>瓜</target>
+</phrase>
+<phrase>
+    <source>Apple</source>
+    <target>苹果</target>
+</phrase>
+<phrase>
+    <source>Strawberry</source>
+    <target>草莓</target>
+</phrase>
+<phrase>
+    <source>&amp;File</source>
+    <target>文件(&amp;F)</target>
+</phrase>
+<phrase>
+    <source>E&amp;xit</source>
+    <target>出口(&amp;x)</target>
+</phrase>
+<phrase>
+    <source>Right</source>
+    <target>正确</target>
+</phrase>
+<phrase>
+    <source>Wrong</source>
+    <target>错误</target>
+</phrase>
+</QPH>

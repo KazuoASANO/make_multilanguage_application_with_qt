@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/i18n">
+        <file alias="Section33Sample_de.qm">i18n/Section33Sample_de.qm</file>
+        <file alias="Section33Sample_en.qm">i18n/Section33Sample_en.qm</file>
+        <file alias="Section33Sample_ja.qm">i18n/Section33Sample_ja.qm</file>
+        <file alias="Section33Sample_zh.qm">i18n/Section33Sample_zh.qm</file>
+    </qresource>
+</RCC>

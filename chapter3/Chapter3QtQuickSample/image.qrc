@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="apple.png">res/apple.png</file>
+        <file alias="right.png">res/right.png</file>
+        <file alias="wrong.png">res/wrong.png</file>
+    </qresource>
+</RCC>

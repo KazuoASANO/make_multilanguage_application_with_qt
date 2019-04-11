@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/i18n">
+        <file alias="QtWidget4_de.qm">i18n/QtWidget4_de.qm</file>
+        <file alias="QtWidget4_en.qm">i18n/QtWidget4_en.qm</file>
+        <file alias="QtWidget4_ja.qm">i18n/QtWidget4_ja.qm</file>
+        <file alias="QtWidget4_zh.qm">i18n/QtWidget4_zh.qm</file>
+    </qresource>
+</RCC>
