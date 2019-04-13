@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/i18n">
+        <file alias="Chapter6PythonQtQuickSample_de.qm">i18n/Chapter6PythonQtQuickSample_de.qm</file>
+        <file alias="Chapter6PythonQtQuickSample_en.qm">i18n/Chapter6PythonQtQuickSample_en.qm</file>
+        <file alias="Chapter6PythonQtQuickSample_ja.qm">i18n/Chapter6PythonQtQuickSample_ja.qm</file>
+        <file alias="Chapter6PythonQtQuickSample_zh.qm">i18n/Chapter6PythonQtQuickSample_zh.qm</file>
+    </qresource>
+</RCC>

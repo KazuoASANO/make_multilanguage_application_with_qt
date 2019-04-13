@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh">
+<context>
+    <name>Home</name>
+    <message>
+        <source>Right</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Wrong</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>HomeForm.ui</name>
+    <message>
+        <source>English</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>German</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Japanese</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Chinese</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>What&apos;s is this?</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Melon</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Apple</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Strawberry</source>
+        <translation></translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>Fruits Quiz</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>&amp;File</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>E&amp;xit</source>
+        <translation></translation>
+    </message>
+</context>
+</TS>
