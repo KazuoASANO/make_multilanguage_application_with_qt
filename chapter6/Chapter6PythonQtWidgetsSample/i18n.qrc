@@ -1,0 +1,8 @@
+﻿<RCC>
+    <qresource prefix="/i18n">
+        <file alias="Chapter6PythonQtWidgetsSample_de.qm">i18n/Chapter6PythonQtWidgetsSample_de.qm</file>
+        <file alias="Chapter6PythonQtWidgetsSample_en.qm">i18n/Chapter6PythonQtWidgetsSample_en.qm</file>
+        <file alias="Chapter6PythonQtWidgetsSample_ja.qm">i18n/Chapter6PythonQtWidgetsSample_ja.qm</file>
+        <file alias="Chapter6PythonQtWidgetsSample_zh.qm">i18n/Chapter6PythonQtWidgetsSample_zh.qm</file>
+    </qresource>
+</RCC>

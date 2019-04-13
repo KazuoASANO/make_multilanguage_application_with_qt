@@ -33,18 +33,5 @@ ApplicationWindow {
   }
 
   // アプリホーム画面を設定
-  Home {
-    /* HomeForm.uiでのコンボボックス index変更 slot処理 */
-    _combbox_language.onCurrentIndexChanged: {
-      // C++のプロパティ化したTranslationクラスでの翻訳ファイルをインストール処理
-//      Translation.setLanguage(_combbox_language.currentIndex);
-      Translation.language = _combbox_language.currentIndex;
-
-      if (_frame_judge.visible === true) {
-        // クイズ 正解/不正解 表示の再描画
-        setUiJudge(isJudge);
-      }
-    }
-  }
-
+  Home {}
 }

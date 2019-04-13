@@ -16,6 +16,8 @@ Qtは、開発者に優しい機能が数多くありますが、その中でも
 
 ## サンプルコード説明
 
+### C++ and QML
+
 | サンプル                            | 内容                                                                  |
 | ----------------------------------- | --------------------------------------------------------------------- |
 | [chapter3](./chapter3)              | 第 3 章 翻訳ファイルのプロジェクトファイルへの追加と使用方法 サンプル |
@@ -23,6 +25,15 @@ Qtは、開発者に優しい機能が数多くありますが、その中でも
 | [chapter6](./chapter6)              | 第 6 章 動的な言語表示の切り替え サンプル                             |
 | [chapter7](./chapter7)              | 第 7 章 翻訳ファイルの自動生成と翻訳対象文字の自動補完 サンプル       |
 
+
+### Qt for Python and QML
+
+| サンプル                            | 内容                                                                  |
+| ----------------------------------- | --------------------------------------------------------------------- |
+| [chapter3 - QtWidget with Qt for Python](./chapter3/Chapter3PythonQtWidgetsSample)  | 第 3 章 翻訳ファイルのプロジェクトファイルへの追加と使用方法 QtWidgets with Qt for Python サンプル |
+| [chapter3 - QtQuick with Qt for Python](./chapter3/Chapter3PythonQtQuickSample)     | 第 3 章 翻訳ファイルのプロジェクトファイルへの追加と使用方法 QtQuick with Qt for Python サンプル          |
+| [chapter6 - QtWidget with Qt for Python](./chapter6/Chapter6PythonQtWidgetsSample)  | 第 6 章 動的な言語表示の切り替え QtWidgets with Qt for Python サンプル                             |
+| [chapter6 - QtQuick with Qt for Python](./chapter6/Chapter6PythonQtQuickSample)     | 第 6 章 動的な言語表示の切り替え QtQuick with Qt for Python サンプル                             |
 
 ## 動作確認環境について
 
